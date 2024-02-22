@@ -1,3 +1,5 @@
+Credit: https://github.com/DevAhsaNOp/ASP.Net-School-Management-System
+
 # School-Management-System
 
 <h2><ins>School-Management-System in Asp.Net C# using Database</ins></h2>
