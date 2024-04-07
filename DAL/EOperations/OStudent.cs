@@ -12,7 +12,7 @@ namespace DAL.EOperations
 {
     public class OStudent
     {
-        string conn = "Server=192.3.73.34;Database=uhuospdn_practice;Uid=uhuospdn_sql;Pwd=rlL)~~*NJ7t(;";
+        string conn = "server=127.0.0.1; user=root; database=f5edu; password=";
 
         public int AddNewStudent(EStudents std)
         {

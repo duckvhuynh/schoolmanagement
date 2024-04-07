@@ -11,7 +11,7 @@ namespace DAL.EOperations
 {
     public class OEmployee
     {
-        string conn = "server=127.0.0.1; user=root; database=lms; password=";
+        string conn = "server=127.0.0.1; user=root; database=f5edu; password=";
 
         public int AddNewEmployee(EEmployee GRD)
         {

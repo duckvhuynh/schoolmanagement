@@ -14,7 +14,7 @@ using MySql.Data.MySqlClient;
 
 public partial class EditStudent : System.Web.UI.Page
 {
-    MySqlConnection con = new MySqlConnection("Server=192.3.73.34;Database=uhuospdn_practice;Uid=uhuospdn_sql;Pwd=rlL)~~*NJ7t(;");
+    MySqlConnection con = new MySqlConnection("server=127.0.0.1; user=root; database=f5edu; password=");
     EStudents std = new EStudents();
     SOperation stdHandler = new SOperation();
     protected void Page_Load(object sender, EventArgs e)

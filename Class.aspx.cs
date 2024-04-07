@@ -9,7 +9,7 @@ using MySql.Data.MySqlClient; // Changed from System.Data.SqlClient to MySql.Dat
 
 public partial class _Class : System.Web.UI.Page
 {
-    string constring = "server=127.0.0.1; user=root; database=lms; password=";
+    string constring = "server=127.0.0.1; user=root; database=f5edu; password=";
     protected void Page_Load(object sender, EventArgs e)
     {
         using (MySqlConnection Sqlcon = new MySqlConnection(constring)) // Changed to MySqlConnection
