@@ -13,7 +13,7 @@ using System.Data;
 
 public partial class AddParent : System.Web.UI.Page
 {
-    const string con = "Server=192.3.73.34;Database=uhuospdn_practice;Uid=uhuospdn_sql;Pwd=rlL)~~*NJ7t(;";
+    const string con = "server=127.0.0.1; user=root; database=lms; password=";
 
     protected void Page_Load(object sender, EventArgs e)
     {

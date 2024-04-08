@@ -132,7 +132,7 @@
             <ul class="Lnavbar-nav">
                 <li class="Llogo">
                     <a href="#" class="Lnav-link ">
-                        <span class="Llink-text Llogo-text">St Mary’s LMS</span>
+                        <span class="Llink-text Llogo-text">F5 EDU</span>
                         <svg aria-hidden="true" focusable="false" data-prefix="fad" data-icon="angle-double-right"
                             role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"
                             class="svg-inline--fa fa-angle-double-right fa-w-14 fa-5x">
