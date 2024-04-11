@@ -16,7 +16,7 @@ using System.Text.RegularExpressions;
 public partial class AddStudent : System.Web.UI.Page
 {
 
-    MySqlConnection con = new MySqlConnection("server=127.0.0.1; user=root; database=lms; password=");
+    MySqlConnection con = new MySqlConnection("server=127.0.0.1; user=root; database=f5edu; password=");
     EStudents std = new EStudents();
     SOperation stdHandler = new SOperation();
 

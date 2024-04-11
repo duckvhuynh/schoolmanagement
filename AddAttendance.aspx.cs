@@ -14,13 +14,13 @@ public partial class AddAttendance : System.Web.UI.Page
     {
         using (SqlConnection Sqlcon = new SqlConnection(constring))
         {
-            string query = "select *from Product";
-            Sqlcon.Open();
-            SqlDataAdapter sqlData = new SqlDataAdapter(query, Sqlcon);
-            DataTable dataTable = new DataTable();
-            sqlData.Fill(dataTable);
-            GridView1.DataSource = dataTable;
-            GridView1.DataBind();
+             string query = "select * from `attendance`";
+         Sqlcon.Open();
+         SqlDataAdapter sqlData = new SqlDataAdapter(query, Sqlcon);
+          DataTable dataTable = new DataTable();
+         sqlData.Fill(dataTable);
+          GridView1.DataSource = dataTable;
+        GridView1.DataBind();
         }
     }
 

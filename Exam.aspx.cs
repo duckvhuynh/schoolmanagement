@@ -14,7 +14,7 @@ public partial class Exam : System.Web.UI.Page
     {
         using (SqlConnection Sqlcon = new SqlConnection(constring))
         {
-            string query = "select * from Product";
+            string query = "select * from exam";
             Sqlcon.Open();
             SqlDataAdapter sqlData = new SqlDataAdapter(query, Sqlcon);
             DataTable dataTable = new DataTable();

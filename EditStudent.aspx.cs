@@ -141,7 +141,17 @@ public partial class EditStudent : System.Web.UI.Page
             SMoblie.Text = ds.Tables[0].Rows[0]["Std_MobileNo"].ToString();
             SDOA.Text = ds.Tables[0].Rows[0]["Std_DOA"].ToString();
             SStatus.Text = ds.Tables[0].Rows[0]["Std_Status"].ToString();
-            SGender.Text = ds.Tables[0].Rows[0]["Std_Gender"].ToString();
+
+            string gender = ds.Tables[0].Rows[0]["Std_Gender"].ToString();
+
+            // Đặt giá trị cho DropDownList dựa trên giá trị gender lấy được
+            // Đảm bảo rằng giá trị trong cơ sở dữ liệu phải trùng khớp với giá trị của các mục trong DropDownList
+            SGender.ClearSelection(); // Xóa lựa chọn hiện tại
+            ListItem genderItem = SGender.Items.FindByText(gender);
+            if (genderItem != null)
+            {
+                genderItem.Selected = true;
+            }
             int Cid = int.Parse(ds.Tables[0].Rows[0]["Std_ClassID"].ToString());
             SCLASS.Text = stdHandler.GetStudentClassName(Cid);
             int sid = int.Parse(ds.Tables[0].Rows[0]["Std_SectionID"].ToString());

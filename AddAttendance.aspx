@@ -1247,7 +1247,8 @@
                 <div class="row" style="display: flex; flex-direction: column; align-items: center;">
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="display: flex; justify-content: space-between; align-items: center; top: 0px; left: 0px;">
                         <h2>&nbsp;Add Attendance</h2>
-                    </div>
+    s
+                    /div>
                     <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12" style="margin-top: 5px;">
                         <div class="sparkline10-list mg-b-20" style="box-shadow: 2px 2px 28px #8888889e; border-radius: 5px; height: 55vh">
                             <div class="form-group">

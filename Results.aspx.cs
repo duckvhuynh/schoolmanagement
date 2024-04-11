@@ -7,6 +7,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
+
 public partial class Results : System.Web.UI.Page
 {
     string constring = "server=127.0.0.1; user=root; database=f5edu; password=";
@@ -14,13 +15,22 @@ public partial class Results : System.Web.UI.Page
     {
         using (SqlConnection Sqlcon = new SqlConnection(constring))
         {
-            string query = "select *from Product";
+            string query = "select * from result";
             Sqlcon.Open();
             SqlDataAdapter sqlData = new SqlDataAdapter(query, Sqlcon);
             DataTable dataTable = new DataTable();
             sqlData.Fill(dataTable);
             GridView1.DataSource = dataTable;
             GridView1.DataBind();
+            try
+{
+    Sqlcon.Open();
+    // Các thao tác khác...
+}
+catch (Exception ex)
+{
+    Console.WriteLine("Lỗi kết nối: " + ex.Message);
+}
         }
     }
 }

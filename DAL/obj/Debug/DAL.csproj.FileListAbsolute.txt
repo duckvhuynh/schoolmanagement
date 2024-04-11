@@ -53,3 +53,22 @@ D:\Information Technology\FALL\qlth\ASP.Net-School-Management-System\DAL\obj\Deb
 D:\Information Technology\FALL\qlth\ASP.Net-School-Management-System\DAL\obj\Debug\DAL.csproj.CopyComplete
 D:\Information Technology\FALL\qlth\ASP.Net-School-Management-System\DAL\obj\Debug\DAL.dll
 D:\Information Technology\FALL\qlth\ASP.Net-School-Management-System\DAL\obj\Debug\DAL.pdb
+D:\Laragon\laragon\schoolmanagement-main\DAL\bin\Debug\DAL.dll
+D:\Laragon\laragon\schoolmanagement-main\DAL\bin\Debug\DAL.pdb
+D:\Laragon\laragon\schoolmanagement-main\DAL\bin\Debug\Google.Protobuf.dll
+D:\Laragon\laragon\schoolmanagement-main\DAL\bin\Debug\Zstandard.Net.dll
+D:\Laragon\laragon\schoolmanagement-main\DAL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Laragon\laragon\schoolmanagement-main\DAL\bin\Debug\BouncyCastle.Crypto.dll
+D:\Laragon\laragon\schoolmanagement-main\DAL\bin\Debug\Ubiety.Dns.Core.dll
+D:\Laragon\laragon\schoolmanagement-main\DAL\bin\Debug\System.Memory.dll
+D:\Laragon\laragon\schoolmanagement-main\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Laragon\laragon\schoolmanagement-main\DAL\bin\Debug\System.Buffers.dll
+D:\Laragon\laragon\schoolmanagement-main\DAL\bin\Debug\K4os.Compression.LZ4.dll
+D:\Laragon\laragon\schoolmanagement-main\DAL\bin\Debug\K4os.Hash.xxHash.dll
+D:\Laragon\laragon\schoolmanagement-main\DAL\bin\Debug\MySql.Data.xml
+D:\Laragon\laragon\schoolmanagement-main\DAL\bin\Debug\MySql.Web.xml
+D:\Laragon\laragon\schoolmanagement-main\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Laragon\laragon\schoolmanagement-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Laragon\laragon\schoolmanagement-main\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Laragon\laragon\schoolmanagement-main\DAL\obj\Debug\DAL.dll
+D:\Laragon\laragon\schoolmanagement-main\DAL\obj\Debug\DAL.pdb

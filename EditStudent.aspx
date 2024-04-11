@@ -1256,6 +1256,7 @@
                                             ControlToValidate="SID"></asp:RequiredFieldValidator>
                                         <asp:Button runat="server" ID="gETdata" ValidationGroup="IDD"  class="btn btn-sm btn-info mg-t-10" Text="Get Details"
                                         OnClick="gETdata_Click" type="button" Style="outline: none;"/>
+
                                     </div>
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                                         <label class="login2">Student Email</label>

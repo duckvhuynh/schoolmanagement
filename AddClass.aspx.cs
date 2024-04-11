@@ -33,7 +33,7 @@ public partial class AddClass : System.Web.UI.Page
 
     protected void Unnamed_Click1(object sender, EventArgs e)
     {
-        SqlConnection cnn = new SqlConnection("Data Source=.;Initial Catalog=Client;Integrated Security=True");
+        SqlConnection cnn = new SqlConnection("server=127.0.0.1; user=root; database=f5edu; password=");
         SqlCommand command;
         SqlDataAdapter adapter = new SqlDataAdapter();
         String sql = "";

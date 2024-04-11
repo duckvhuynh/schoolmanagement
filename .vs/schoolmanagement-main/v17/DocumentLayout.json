@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Laragon\\laragon\\schoolmanagement-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Laragon\\laragon\\schoolmanagement-main\\AddParent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AddParent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Laragon\\laragon\\schoolmanagement-main\\Subjects.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Subjects.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Laragon\\laragon\\schoolmanagement-main\\Subjects.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Subjects.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Laragon\\laragon\\schoolmanagement-main\\Exam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Laragon\\laragon\\schoolmanagement-main\\Exam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Laragon\\laragon\\schoolmanagement-main\\AddAttendance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AddAttendance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Laragon\\laragon\\schoolmanagement-main\\AddClass.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AddClass.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Laragon\\laragon\\schoolmanagement-main\\AddExam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AddExam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Laragon\\laragon\\schoolmanagement-main\\AddExam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AddExam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddParent.aspx.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\AddParent.aspx.cs",
+              "RelativeDocumentMoniker": "AddParent.aspx.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\AddParent.aspx.cs",
+              "RelativeToolTip": "AddParent.aspx.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwDAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:27:11.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subjects.aspx.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Subjects.aspx.cs",
+              "RelativeDocumentMoniker": "Subjects.aspx.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Subjects.aspx.cs",
+              "RelativeToolTip": "Subjects.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:32:34.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subjects.aspx",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Subjects.aspx",
+              "RelativeDocumentMoniker": "Subjects.aspx",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Subjects.aspx",
+              "RelativeToolTip": "Subjects.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-08T13:32:32.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exam.aspx.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Exam.aspx.cs",
+              "RelativeDocumentMoniker": "Exam.aspx.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Exam.aspx.cs",
+              "RelativeToolTip": "Exam.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:32:14.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exam.aspx",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Exam.aspx",
+              "RelativeDocumentMoniker": "Exam.aspx",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Exam.aspx",
+              "RelativeToolTip": "Exam.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-08T13:31:22.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddAttendance.aspx.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\AddAttendance.aspx.cs",
+              "RelativeDocumentMoniker": "AddAttendance.aspx.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\AddAttendance.aspx.cs",
+              "RelativeToolTip": "AddAttendance.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:45:59.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddClass.aspx.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\AddClass.aspx.cs",
+              "RelativeDocumentMoniker": "AddClass.aspx.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\AddClass.aspx.cs",
+              "RelativeToolTip": "AddClass.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:45:46.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddExam.aspx",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\AddExam.aspx",
+              "RelativeDocumentMoniker": "AddExam.aspx",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\AddExam.aspx",
+              "RelativeToolTip": "AddExam.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-07T15:46:22.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddExam.aspx.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\AddExam.aspx.cs",
+              "RelativeDocumentMoniker": "AddExam.aspx.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\AddExam.aspx.cs",
+              "RelativeToolTip": "AddExam.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:46:16.842Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -35,7 +35,7 @@
         <div class="container-login100">
             <div class="wrap-login100">
                 <form id="form1" runat="server" class="login100-form validate-form">
-                    <h1 style="text-align: center; user-select: none;">ST MARY'S
+                    <h1 style="text-align: center; user-select: none;">F5 Education
                         <br />
                         <span
                             style="font-size: 18pt;">LEARNING MANAGEMENT

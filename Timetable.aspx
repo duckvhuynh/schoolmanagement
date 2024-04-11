@@ -1243,19 +1243,19 @@
                             <asp:GridView ID="GridView1" runat="server" CellPadding="4" ForeColor="#333333" GridLines="None" Height="200px" Width="100%" AutoGenerateColumns="False">
                                 <AlternatingRowStyle BackColor="White" ForeColor="#284775" CssClass="HeadBdr" />
                                 <Columns>
-                                    <asp:BoundField DataField="id" HeaderText="ID">
+                                    <asp:BoundField DataField="TT_ID" HeaderText="ID">
                                         <HeaderStyle Height="50px" CssClass="pad" Font-Size="Large" />
                                         <ItemStyle CssClass="pad" Width="30%" Font-Size="Medium" />
                                     </asp:BoundField>
-                                    <asp:BoundField DataField="name" HeaderText="CLASS">
+                                    <asp:BoundField DataField="TT_SectionID" HeaderText="SectionID">
                                         <HeaderStyle Font-Size="Large" />
                                         <ItemStyle Width="30%" Font-Size="Medium" />
                                     </asp:BoundField>
-                                    <asp:BoundField DataField="Price" HeaderText="SECTION">
+                                    <asp:BoundField DataField="TT_DAY" HeaderText="DAY">
                                         <HeaderStyle Font-Size="Large" />
                                         <ItemStyle Width="30%" Font-Size="Medium" />
                                     </asp:BoundField>
-                                    <asp:TemplateField HeaderText="OPTION" HeaderStyle-CssClass="padH">
+                                    <asp:TemplateField HeaderText="TT_StartTime" HeaderStyle-CssClass="StartTime">
                                         <ItemTemplate>
                                             <asp:Button Text="Edit" runat="server" PostBackUrl="~/EditTimetable.aspx" BackColor="#17A2B8" BorderStyle="None" Height="30px" Width="100px" CssClass="mar"
                                                 Font-Names="Lucida Sans" />

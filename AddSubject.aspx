@@ -1248,7 +1248,7 @@
                                 <div class="row formInnerGroupRow">
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                                         <label class="login2">Subject ID</label>
-                                        <asp:TextBox runat="server" ReadOnly="true" CssClass="form-control basic-ele-mg-t-10" placeholder="System Generated ID" Style="border-radius: 5px;" />
+                                        <asp:TextBox runat="server" ReadOnly="False" CssClass="form-control basic-ele-mg-t-10" placeholder="System Generated ID" Style="border-radius: 5px;" />
                                     </div>
                                     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                                         <label class="login2">Subject Description</label>
@@ -1256,16 +1256,19 @@
                                     </div>
                                 </div>
                                 <div class="row formInnerGroup mg-t-30">
-                                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" style="margin-left: 230px;">
+                                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" style="margin-left: 306px;">
                                         <label class="login2">Subject Name</label>
                                         <asp:TextBox runat="server" CssClass="form-control basic-ele-mg-t-10" placeholder="Enter Subject Name" Style="border-radius: 5px;" />
                                     </div>
                                 </div>
                                 <div class="row formInnerGroup mg-t-30">
-                                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" style="margin-left: 230px;">
-                                        <label class="login2">Class Name</label>
-                                        <asp:DropDownList runat="server" CssClass="form-control basic-ele-mg-t-10" Style="border-radius: 5px;">
-                                        </asp:DropDownList>
+                                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" style="margin-left: 306px;">
+                                        <label class="login2">Price</label>
+                                       <asp:DropDownList runat="server" CssClass="form-control basic-ele-mg-t-10" Style="border-radius: 5px;">
+                                        <asp:ListItem Text="140$" Value="140$"></asp:ListItem>
+                                         <asp:ListItem Text="250$" Value="250$"></asp:ListItem>
+                                          <asp:ListItem Text="350$" Value="350$"></asp:ListItem>
+</asp:DropDownList>
                                     </div>
                                 </div>
                                 <div class="row formInnerGroupRowBtn mg-t-15">

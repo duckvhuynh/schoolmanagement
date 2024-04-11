@@ -1,0 +1,481 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Laragon\\laragon\\schoolmanagement-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\subjects.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:subjects.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|d:\\laragon\\laragon\\schoolmanagement-main\\timetable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:timetable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\timetable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:timetable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\editemployee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:editemployee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\results.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:results.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\class.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:class.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\class.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:class.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\exam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:exam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\exam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:exam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\employee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:employee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\employee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:employee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\editemployee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:editemployee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\viewemployee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:viewemployee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\viewemployee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:viewemployee.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\results.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:results.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\students.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:students.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\students.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:students.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\editstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:editstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\editstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:editstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\subjects.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:subjects.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\addsubject.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:addsubject.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\userreset.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:userreset.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\payment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:payment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|D:\\Laragon\\laragon\\schoolmanagement-main\\parents.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD64E80-E35C-4CAB-8175-045B6E545D8E}|D:\\Laragon\\laragon\\schoolmanagement-main|solutionrelative:parents.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6DAB0A-3BFE-4294-A73D-474FCDA0559A}|BLL\\BLL.csproj|D:\\Laragon\\laragon\\schoolmanagement-main\\bll\\boperations\\goperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6DAB0A-3BFE-4294-A73D-474FCDA0559A}|BLL\\BLL.csproj|solutionrelative:bll\\boperations\\goperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6DAB0A-3BFE-4294-A73D-474FCDA0559A}|BLL\\BLL.csproj|D:\\Laragon\\laragon\\schoolmanagement-main\\bll\\boperations\\eoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6DAB0A-3BFE-4294-A73D-474FCDA0559A}|BLL\\BLL.csproj|solutionrelative:bll\\boperations\\eoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class.aspx",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Class.aspx",
+              "RelativeDocumentMoniker": "Class.aspx",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Class.aspx",
+              "RelativeToolTip": "Class.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-10T10:44:01.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Exam.aspx.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Exam.aspx.cs",
+              "RelativeDocumentMoniker": "Exam.aspx.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Exam.aspx.cs",
+              "RelativeToolTip": "Exam.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:21:47.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.aspx.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Employee.aspx.cs",
+              "RelativeDocumentMoniker": "Employee.aspx.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Employee.aspx.cs",
+              "RelativeToolTip": "Employee.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:21:12.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditEmployee.aspx.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\EditEmployee.aspx.cs",
+              "RelativeDocumentMoniker": "EditEmployee.aspx.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\EditEmployee.aspx.cs",
+              "RelativeToolTip": "EditEmployee.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:21:07.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewEmployee.aspx.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\ViewEmployee.aspx.cs",
+              "RelativeDocumentMoniker": "ViewEmployee.aspx.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\ViewEmployee.aspx.cs",
+              "RelativeToolTip": "ViewEmployee.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:18:25.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewEmployee.aspx",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\ViewEmployee.aspx",
+              "RelativeDocumentMoniker": "ViewEmployee.aspx",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\ViewEmployee.aspx",
+              "RelativeToolTip": "ViewEmployee.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-10T12:18:23.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.aspx",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Employee.aspx",
+              "RelativeDocumentMoniker": "Employee.aspx",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Employee.aspx",
+              "RelativeToolTip": "Employee.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-10T10:45:31.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "Dashboard.aspx",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Dashboard.aspx",
+              "RelativeToolTip": "Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-10T11:45:42.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Results.aspx.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Results.aspx.cs",
+              "RelativeDocumentMoniker": "Results.aspx.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Results.aspx.cs",
+              "RelativeToolTip": "Results.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:06:36.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Results.aspx",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Results.aspx",
+              "RelativeDocumentMoniker": "Results.aspx",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Results.aspx",
+              "RelativeToolTip": "Results.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-10T12:06:16.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditEmployee.aspx",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\EditEmployee.aspx",
+              "RelativeDocumentMoniker": "EditEmployee.aspx",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\EditEmployee.aspx",
+              "RelativeToolTip": "EditEmployee.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-10T11:52:15.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditStudent.aspx.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\EditStudent.aspx.cs",
+              "RelativeDocumentMoniker": "EditStudent.aspx.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\EditStudent.aspx.cs",
+              "RelativeToolTip": "EditStudent.aspx.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAIwJkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:48:47.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditStudent.aspx",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\EditStudent.aspx",
+              "RelativeDocumentMoniker": "EditStudent.aspx",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\EditStudent.aspx",
+              "RelativeToolTip": "EditStudent.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-10T11:47:01.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Students.aspx.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Students.aspx.cs",
+              "RelativeDocumentMoniker": "Students.aspx.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Students.aspx.cs",
+              "RelativeToolTip": "Students.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:47:16.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Students.aspx",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Students.aspx",
+              "RelativeDocumentMoniker": "Students.aspx",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Students.aspx",
+              "RelativeToolTip": "Students.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-10T11:45:43.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Userreset.aspx",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Userreset.aspx",
+              "RelativeDocumentMoniker": "Userreset.aspx",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Userreset.aspx",
+              "RelativeToolTip": "Userreset.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-10T11:00:01.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Payment.aspx.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Payment.aspx.cs",
+              "RelativeDocumentMoniker": "Payment.aspx.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Payment.aspx.cs",
+              "RelativeToolTip": "Payment.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:46:18.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class.aspx.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Class.aspx.cs",
+              "RelativeDocumentMoniker": "Class.aspx.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Class.aspx.cs",
+              "RelativeToolTip": "Class.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:25:35.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddSubject.aspx",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\AddSubject.aspx",
+              "RelativeDocumentMoniker": "AddSubject.aspx",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\AddSubject.aspx",
+              "RelativeToolTip": "AddSubject.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-09T12:32:08.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Exam.aspx",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Exam.aspx",
+              "RelativeDocumentMoniker": "Exam.aspx",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Exam.aspx",
+              "RelativeToolTip": "Exam.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-08T13:35:26.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Userlogin.aspx",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Userlogin.aspx",
+              "RelativeDocumentMoniker": "Userlogin.aspx",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Userlogin.aspx",
+              "RelativeToolTip": "Userlogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-08T12:44:45.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subjects.aspx.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Subjects.aspx.cs",
+              "RelativeDocumentMoniker": "Subjects.aspx.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Subjects.aspx.cs",
+              "RelativeToolTip": "Subjects.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:44:14.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Subjects.aspx",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Subjects.aspx",
+              "RelativeDocumentMoniker": "Subjects.aspx",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Subjects.aspx",
+              "RelativeToolTip": "Subjects.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-08T12:44:14.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Timetable.aspx",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Timetable.aspx",
+              "RelativeDocumentMoniker": "Timetable.aspx",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Timetable.aspx",
+              "RelativeToolTip": "Timetable.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-08T12:34:02.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Timetable.aspx.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Timetable.aspx.cs",
+              "RelativeDocumentMoniker": "Timetable.aspx.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Timetable.aspx.cs",
+              "RelativeToolTip": "Timetable.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:34:02.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Parents.aspx.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\Parents.aspx.cs",
+              "RelativeDocumentMoniker": "Parents.aspx.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\Parents.aspx.cs",
+              "RelativeToolTip": "Parents.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAwAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:32:37.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GOperation.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\BLL\\BOperations\\GOperation.cs",
+              "RelativeDocumentMoniker": "BLL\\BOperations\\GOperation.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\BLL\\BOperations\\GOperation.cs",
+              "RelativeToolTip": "BLL\\BOperations\\GOperation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:26:03.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EOperation.cs",
+              "DocumentMoniker": "D:\\Laragon\\laragon\\schoolmanagement-main\\BLL\\BOperations\\EOperation.cs",
+              "RelativeDocumentMoniker": "BLL\\BOperations\\EOperation.cs",
+              "ToolTip": "D:\\Laragon\\laragon\\schoolmanagement-main\\BLL\\BOperations\\EOperation.cs",
+              "RelativeToolTip": "BLL\\BOperations\\EOperation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:26:02.668Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1243,23 +1243,23 @@
                             <asp:GridView ID="GridView1" runat="server" CellPadding="4" ForeColor="#333333" GridLines="None" Height="200px" Width="100%" AutoGenerateColumns="False">
                                 <AlternatingRowStyle BackColor="White" ForeColor="#284775" CssClass="HeadBdr" />
                                 <Columns>
-                                    <asp:BoundField DataField="id" HeaderText="ID">
+                                    <asp:BoundField DataField="Exam_ID" HeaderText="ID">
                                         <HeaderStyle Height="50px" CssClass="pad" Font-Size="Large" />
                                         <ItemStyle CssClass="pad" Width="10%" Font-Size="Medium" />
                                     </asp:BoundField>
-                                    <asp:BoundField DataField="Price" HeaderText="EXAM TYPE">
+                                    <asp:BoundField DataField="Exam_TypeID" HeaderText="EXAM TYPE">
                                         <HeaderStyle Font-Size="Large" />
                                         <ItemStyle Width="20%" Font-Size="Medium" />
                                     </asp:BoundField>
-                                    <asp:BoundField DataField="id" HeaderText="CLASS">
+                                    <asp:BoundField DataField="Exam_ClassID" HeaderText="CLASS">
                                         <HeaderStyle CssClass="pad" Font-Size="Large" />
                                         <ItemStyle CssClass="pad" Width="20%" Font-Size="Medium" />
                                     </asp:BoundField>
-                                    <asp:BoundField DataField="name" HeaderText="SUBJECT">
+                                    <asp:BoundField DataField="Exam_Start_DateTime" HeaderText="DateTime">
                                         <HeaderStyle Font-Size="Large" />
                                         <ItemStyle Width="30%" Font-Size="Medium" />
                                     </asp:BoundField>
-                                    <asp:TemplateField HeaderText="OPTION" HeaderStyle-CssClass="padH">
+                                    <asp:TemplateField HeaderText="Exam_SubjectID" HeaderStyle-CssClass="SubjectID">
                                         <ItemTemplate>
                                             <asp:Button Text="Edit" runat="server" PostBackUrl="~/EditExam.aspx" BackColor="#17A2B8" BorderStyle="None" Height="30px" Width="100px" CssClass="mar"
                                                 Font-Names="Lucida Sans" />

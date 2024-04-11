@@ -120,7 +120,7 @@
             <ul class="Lnavbar-nav">
                 <li class="Llogo">
                     <a href="#" class="Lnav-link ">
-                        <span class="Llink-text Llogo-text">F5 EDU</span>
+                        <span class="Llink-text Llogo-text">F5 education</span>
                         <svg aria-hidden="true" focusable="false" data-prefix="fad" data-icon="angle-double-right"
                             role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"
                             class="svg-inline--fa fa-angle-double-right fa-w-14 fa-5x">
@@ -1243,29 +1243,30 @@
                             <asp:GridView ID="GridView1" runat="server" CellPadding="4" ForeColor="#333333" GridLines="None" Height="200px" Width="100%" AutoGenerateColumns="False">
                                 <AlternatingRowStyle BackColor="White" ForeColor="#284775" CssClass="HeadBdr" />
                                 <Columns>
-                                    <asp:BoundField DataField="id" HeaderText="ID">
+                                    <asp:BoundField DataField="Subject_ID" HeaderText="ID">
                                         <HeaderStyle Height="50px" CssClass="pad" Font-Size="Large" />
                                         <ItemStyle CssClass="pad" Width="30%" Font-Size="Medium" />
                                     </asp:BoundField>
-                                    <asp:BoundField DataField="name" HeaderText="NAME">
+                                    <asp:BoundField DataField="Subject_Name" HeaderText="NAME">
                                         <HeaderStyle Font-Size="Large" />
                                         <ItemStyle Width="30%" Font-Size="Medium" />
                                     </asp:BoundField>
-                                    <asp:BoundField DataField="Price" HeaderText="PRICE">
+                                    <asp:BoundField DataField="Subject_ClassID" HeaderText="ClassID">
                                         <HeaderStyle Font-Size="Large" />
                                         <ItemStyle Width="30%" Font-Size="Medium" />
                                     </asp:BoundField>
-                                    <asp:TemplateField HeaderText="OPTION" HeaderStyle-CssClass="padH">
-                                        <ItemTemplate>
-                                            <asp:Button Text="Edit" runat="server" PostBackUrl="~/EditSubject.aspx" BackColor="#17A2B8" BorderStyle="None" Height="30px" Width="100px" CssClass="mar"
-                                                Font-Names="Lucida Sans" />
-                                        </ItemTemplate>
-                                        <HeaderStyle Font-Size="Large" />
-                                    </asp:TemplateField>
+                                        <asp:BoundField DataField="Subject_Description" HeaderText="Subject_Description
+                                            ">
+                                            <HeaderStyle Font-Size="Large" />
+                                            <ItemStyle Width="30%" Font-Size="Medium" />
+                                                 </asp:BoundField>
+                            
                                     <asp:TemplateField>
                                         <ItemTemplate>
-                                            <asp:Button Text="View" runat="server" BackColor="#007BFF" PostBackUrl="~/ViewSubject.aspx" BorderStyle="None" Height="30px" Width="100px" CssClass="mar"
+                                            <asp:Button Text="View" runat="server" BackColor="#007BFF" PostBackUrl="~/ViewSubject.aspx" BorderStyle="None" Height="30px" Width="100px"  CssClass ="mar"
                                                 Font-Names="Lucida Sans" />
+                                            <asp:Button Text="Edit" runat="server" BackColor="#007BFF" PostBackUrl="~/EditSubject.aspx" BorderStyle="None" Height="30px" Width="100px" Background-Color="black" CssClass="mar"
+    Font-Names="Lucida Sans" />
                                         </ItemTemplate>
                                     </asp:TemplateField>
                                 </Columns>

@@ -35,9 +35,9 @@
         <div class="container-login100">
             <div class="wrap-login100">
                 <form id="form1" runat="server" class="login100-form validate-form">
-                    <h1 style="text-align: center; user-select: none;">ST MARY'S
+                    <h1 style="text-align: center; user-select: none;">F5 Edu
                         <br />
-                        <span style="font-size: 18pt;">LEARNING MANAGEMENT
+                        <span style="font-size: 20pt;">LEARNING MANAGEMENT
 							SYSTEM</span></h1>
                     <br />
                     <span class="login100-form-title p-b-35" style="user-select: none;">Login to continue
@@ -45,7 +45,7 @@
                     <div class="wrap-input100 validate-input" data-validate="Valid SID is required: 12345">
                         <asp:TextBox runat="server" class="input100" type="text" ID="LSid"
                             onkeypress="return event.charCode >= 48 && event.charCode <= 57" onpaste="return false"
-                            name="sid" autocomplete="off" />
+                            name="sid" autocomplete="on" />
                         <span class="focus-input100"></span>
                         <span class="label-input100" style="user-select: none;">Sid</span>
                     </div>
