@@ -1,6 +1,6 @@
 F5 Edu - LMS System
- Huynh Van Duc
- Xieng Trinh Quang Huy
- Le Van Sang
- Nguyen Thanh Son
+ Huynh Van Duc<br>
+ Xieng Trinh Quang Huy<br>
+ Le Van Sang<br>
+ Nguyen Thanh Son<br>
  Nguyen Minh Hiep
